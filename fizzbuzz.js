@@ -1,3 +1,4 @@
+#fizzbuzz
 
 let resultado = fizzBuzz(); //Adicionar o valor a ser verificado dentro dos ()
 console.log(resultado);
